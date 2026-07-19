@@ -1,0 +1,9 @@
+.env
+__pycache__/
+venv/
+api_call_log.txt
+.env
+__pycache__/
+venv/
+api_call_log.txt
+data/raw/
